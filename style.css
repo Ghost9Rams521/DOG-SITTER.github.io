@@ -1,0 +1,244 @@
+body{
+	background-color: #D6D6D6;
+}
+
+
+
+#entiere{
+	background-color: #CCE3F8;
+	margin-right: 20%;
+	margin-left: 20%;
+	height: 1350px;
+	margin-bottom: 5%;
+	margin-top: 1%;
+}
+
+#titre_principale_2{
+	font-size: 350%;
+	font-weight: bold;
+	font-display: 8px;
+	list-style: none;
+	text-decoration: none;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #CCE3F8;
+}
+
+#titre_principale_2 a{
+	list-style: none;
+	text-decoration: none;
+	color: black;
+}
+
+#slogan{
+	margin-left: 37%;
+	font-family: 'Jua', sans-serif;
+}
+
+ #menu ul{
+	margin: 0;
+	padding: 0;
+	line-height: 30px;
+	width: 100%;
+}
+#menu li{
+	list-style: none;
+	float: left;
+	position: relative;
+	background-color: #9DBBF3  ;
+}
+
+
+#menu ul li a{
+	color: blue;
+	text-decoration: none;
+	width: 300px;
+	height: 30px;
+	display: block;
+	text-align: center;
+	border:1px solid black;
+	text-shadow: 1px 1px 1px #00000;
+}
+#menu ul ul{
+	position: absolute;
+    top: 31px;
+    visibility: hidden;
+}
+#menu ul li:hover ul{
+	visibility: visible;
+}
+#menu li:hover{
+	background-color: #9DBBF3 ;
+}
+
+
+#menu ul li ul a:hover{
+	color: blue;
+	background-color: #C1D2F1;
+	transition: 0.1s all;
+}
+
+#presentation{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#titre_1{
+	margin-left: 8%;
+}
+
+#paragraphe_1{
+
+}
+
+#corp{
+	float: left;
+	width: 100%;
+	margin-top: 3%;
+}
+
+
+#haut{
+	width: 100%;
+	float: left;
+
+}
+#corp_1{
+	width: 50%;
+	background-color: #B4C2F3;
+	float: left;
+}
+
+#paragraphe_2{
+	float: left;
+	width: 40%;
+	background-color: white;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+
+#img_1{
+	float: right;
+}
+
+#corp_2{
+	width: 50%;
+	background-color: #B4C2F3  ;
+	float: left;
+}
+
+#paragraphe_3{
+	float: right;
+	width: 40%;
+	background-color: white;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+
+#img_2{
+	float: left;
+}
+
+#bas{
+	width: 100%;
+	background-color: blue;
+	width: 100%;
+}
+#corp_3{
+	width: 50%;
+	background-color: #C5D4F0;
+	float: left;
+}
+
+#paragraphe_4{
+	float: right;
+	width: 40%;
+	background-color: white;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+#img_3{
+	float: left;
+}
+
+#corp_4{
+	width: 50%;
+	background-color: #C5D4F0;
+	float: left;
+}
+
+#paragraphe_5{
+	float: left;
+	width: 40%;
+	background-color: white;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+#img_4{
+	float: right;
+}
+
+#paiement{
+	float: left;
+	background-color: #CCE3F8;
+	width: 50%;
+}
+
+#paragraphe_6{
+	float: left;
+	background-color: #CCE3F8;
+	width: 100%;
+}
+
+#logo_paiement_en_espece{
+	width: 10%;
+	height: 50px;
+	margin-left: 30%;
+}
+
+#paragraphe_7{
+	float: right;
+	margin-right: 32%;
+}
+
+#réseaux_social{
+	float: right;
+	background-color: #CCE3F8;
+	width: 50%;
+}
+
+#réseaux_social_2{
+	float: right;
+	background-color: #CCE3F8;
+	width: 100%;
+}
+
+#logo_twitter{
+	margin-left: 48%;
+	height: 40px;
+	width: 8%;
+}
+
+#titre_10{
+	width: 100%;
+	margin-left: 5%;
+}
+
+#titre_11{
+	width: 100%;
+	margin-left: 5%;
+}
+
+#corp_15{
+	width: 100%;
+	margin-left: 5%;
+}
+
+p{
+	width: 50%;
+	margin-left: 40%;
+}
